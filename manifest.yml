@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: wdc-python-ui
+  host: wdc-python-ui
+  disk_quota: 1024M
+  buildpack: python_buildpack
