@@ -8,7 +8,7 @@ It also has the gensim summariser to reduce the response from Discovery service 
 
 ## How to install. 
 
-1. Edit `config.ini` and put in your related settings where you see something surrounded with `<>`. For example `<CONVERSATION_USER_NAME>` should be changed to the username of your conversation service. 
+Edit `config.ini` and put in your related settings where you see something surrounded with `<>`. For example `<CONVERSATION_USER_NAME>` should be changed to the username of your conversation service. 
 
 The config.ini file has the following settings. 
 
